@@ -3,17 +3,31 @@
 - company: Leapfrog Technology, Inc.
   position: Senior Software Engineer
   duration: Jan, 2020 &mdash; Present
-  summary: Write about your core competencies in one or two sentences describing your position. If you held the position for a long time, it could be a longer section, including a couple bullet points	<ul class="resume-item-list"><li>A project you are proud of</li><li>Another awesome project</li><li>or a team or department you worked with</li></ul>
+  summary: • Team Lead as Flutter/React Developer following Clean Architecture and TDD
+           • Worked under Scrum and Agile Workflow with feature-wise development and release management. 
+           • Wrote unit test and integration testing with Provider/BLOC and GetIT as dependency injection with GraphQL Client
+           • Worked under various modules on the ERP to develop REST APIs with database MySQL, MongoDB and PostgresSQL and handling queries.
 
-# Director of Digital Stratgy
-- company: United Nations Human Rights Council
-  position: Director of Digital Strategy
-  duration:  Jun, 2010 &mdash; Sept, 2013
-  summary: If your stint was shorter, feel free to be brief and just call out the most meaningful points of your role. Be concise, and be meaninful. The person reading just needs enough to want to talk to you more about your experience.
+# Frontend Developer
+- company: Lenden Sewa Pvt. Ltd.
+  position: Frontend Developer
+  duration:  Sep, 2020 &mdash; Dec, 2020
+  summary: • Developing mobile application using Flutter with Clean Architecture and ReactJs web app with hooks and +ES6 
+           • Integrate Google Maps SDK with navigation, handling socket connection for real-time tracking of rider’s location.
 
+# Mobile Application Tutor/Developer
+- company: IIT Nepal
+  position: Mobile Application Tutor/Developer
+  duration:   Dec, 2018  &mdash; Dec, 2020
+  summary: • Teaching Android/ Flutter Developer Course from scratch to deployment with Material Design and Language as Java/Dart. 
+           • Tutor on creating 15 real-world applications with key knowledge of JSON Parsing, REST API, Volley, Maps, Firebase Tools and also some game developments with GDX.
+           • Developed internal apps using Flutter i.e. CSIT that helps students with notes and study materials.
 
-# Communications Coordinator
-- company: Springfield Women & Children's Center
-  position: Communications Coordinator
-  duration:   Jun, 2008  &mdash; May, 2010
-  summary: Led communication efforts across digital and traditional media channels for marketing and public relations, internal communication strategies, and coordinated support programs for the recipients of the center's services.
+# Android Developer
+- company: Tejobindu Solutions Pvt. Ltd
+  position: Android Developer
+  duration:   Jul, 2019  &mdash; Dec, 2019
+  summary: • Work with MVVM, MVC architecture with usage of Java and Kotlin to develop apps 
+           • Background services managing with EventBus, WorkManager and BroadCastReciever.
+           • Uses Firebase Cloudstore and Facebook SDK with Offline Caching Live Data
+           • Usage of Maps SDK, Location Handling, Marker Animation with DistanceAPI, and FusedLocation.

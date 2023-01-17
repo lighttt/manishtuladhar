@@ -1,12 +1,12 @@
 # Skills
-# Organizational leadership
-- skill: Organizational leadership
-  description: I have several years of experience leading organziations from community groups to business departments. From public speaking, to mentoring, to coordination of people and events, I can lead in any context.
+# Flutter
+- skill: Flutter
+  description: Provider/BLOC/Riverpod, GraphQL/Restful APIs/Socket, Firebase/Hive/SQLite, GetIt
 
-# Communications strategy
-- skill: Communications strategy
-  description: Content and marketing strategy,
+# React.js
+- skill: React.js
+  description: Typescript, Redux/Toolkit, React Hook Form/Formik, TRPC
 
-# Digital content development and creation
-- skill: Digital content development and creation
-  description: Copy writing, graphic design, web design, front-end web development, print design
+# Node.js
+- skill: Node.js
+  description: Nest.js, Prisma, Knex, Express.js
