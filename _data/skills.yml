@@ -3,9 +3,13 @@
 - skill: Flutter
   description: Provider/BLOC/Riverpod, GraphQL/Restful APIs/Socket, Firebase/Hive/SQLite, GetIt
 
+# ReactNative
+- skill: ReactNative
+  description: Redux, Expo, React Hook Form/Formik/Query, Context API, TRPC, Jest
+
 # React.js
 - skill: React.js
-  description: Typescript, Redux/Toolkit, React Hook Form/Formik, TRPC
+  description: Typescript, Tailwind, Material UI, Redux/Toolkit, React Hook Form/Formik, TRPC
 
 # Node.js
 - skill: Node.js

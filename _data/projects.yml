@@ -8,10 +8,17 @@
   url: 'https://www.liike.com/'
   description: A Group Chat based social media application that allows users to join various squad and share different medias with each other.
 
+# eAtlas Adventures
+- project: eAtlas Adventure
+  role: Team Lead (ReactNative)
+  duration: Mar 2023 &mdash; Present
+  url: 'https://playeatlas.com/'
+  description: An on-demand app-guided tour that allows users to explore the world with various adventures and activities.
+
 # Lemon Square
 - project: Lemon Square
-  role: Team Lead
-  duration: Jul 2020 &mdash; Present
+  role: Team Lead (Flutter)
+  duration: Jul 2022 &mdash; Mar 2023
   url: 'https://www.lemon.cchan.tv/'
   description: Brand-Influencer Matching Platform that helps brand and influencers to join campaigns and promote products to Instagram and TikTok in Japan.
 
