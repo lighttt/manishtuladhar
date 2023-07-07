@@ -1,42 +1,49 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Liike
+- project: Liike
+  role: Flutter Developer
+  duration: Feb 2023 &mdash; Present
+  url: 'https://www.liike.com/'
+  description: A Group Chat based social media application that allows users to join various squad and share different medias with each other.
+
 # Lemon Square
-- project:  Lemon Square
+- project: Lemon Square
   role: Team Lead
   duration: Jul 2020 &mdash; Present
-  url: "https://www.lemon.cchan.tv/"
+  url: 'https://www.lemon.cchan.tv/'
   description: Brand-Influencer Matching Platform that helps brand and influencers to join campaigns and promote products to Instagram and TikTok in Japan.
 
-# ConnectJobWorkers 
-- project: ConnectJobWorkers 
+# ConnectJobWorkers
+- project: ConnectJobWorkers
   role: Flutter Developer
   duration: Jan 2020 &mdash; Jan 2021
-  url: "https://workers.connectiu.com/candidate_top"
+  url: 'https://workers.connectiu.com/candidate_top'
   description: Job search app developed by Fourth valley Concierge Corporation for for- eigners who are looking for a job to work in Special Skilled Workers (Tokutei Ginou) in Japan.
 
-# Vyaguta 
-- project: Vyaguta 
+# Vyaguta
+- project: Vyaguta
   role: Full-stack Developer
   duration: Jan 2021 &mdash; Nov 2021
-  url: "https://play.google.com/store/apps/details?id=com.lftechnology.leapfroggers&hl=en_NZ&gl=US"
-  description: ERP application that handles and manages day to day operations in Leapfrog Technology as well helps employees with project assignment to evaluation of each persons growth. 
+  url: 'https://play.google.com/store/apps/details?id=com.lftechnology.leapfroggers&hl=en_NZ&gl=US'
+  description: ERP application that handles and manages day to day operations in Leapfrog Technology as well helps employees with project assignment to evaluation of each persons growth.
 
-# Bujau Sewa  
-- project: Bujau Sewa  
+# Bujau Sewa
+- project: Bujau Sewa
   role: Flutter Developer
   duration: Jan 2021 &mdash; Jul 2021
-  url: "https://play.google.com/store/apps/details?id=com.bujau.user&hl=en_AU&gl=US"
-  description: Kathmandu based delivery company offering nationwide delivery services. 
+  url: 'https://play.google.com/store/apps/details?id=com.bujau.user&hl=en_AU&gl=US'
+  description: Kathmandu based delivery company offering nationwide delivery services.
 
-# Kaha 
+# Kaha
 - project: Kaha
   role: Flutter Developer
   duration: Jan 2021 &mdash; Nov 2021
-  url: "https://play.google.com/store/apps/details?id=com.kaha_hits.kaha&hl=en_AU&gl=US"
-  description: Kaha, etymological meaning in Nepali being “where” is designed to solve the problem faced by users regarding accurate locations and identification based on maps. 
+  url: 'https://play.google.com/store/apps/details?id=com.kaha_hits.kaha&hl=en_AU&gl=US'
+  description: Kaha, etymological meaning in Nepali being “where” is designed to solve the problem faced by users regarding accurate locations and identification based on maps.
 
-# Runlow 
+# Runlow
 - project: Runlow
   role: Android Developer
   duration: Jul 2018 &mdash; Jan 2019
