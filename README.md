@@ -6,7 +6,7 @@ This site showcases my professional experience, key projects, and technical skil
 
 ## 📄 Live Resume
 
-🔗 [View Live Resume](https://your-github-username.github.io/your-repo-name)
+🔗 [View Live Resume](https://lighttt.github.io/manishtuladhar/)
 
 ## 👨‍💻 About Me
 
@@ -26,15 +26,18 @@ I’m a Senior Software Engineer with 6+ years of experience in building scalabl
 ## 🏢 Work Experience Highlights
 
 ### Credible (2022 – Present)
+
 - Built and scaled a cross-platform job-matching platform with AI resume parsing and Super CV generation.
 - Integrated Stripe and RevenueCat subscriptions and optimized job ingestion pipelines.
 - Led frontend and backend architecture, supporting 80k+ users across AU and US.
 
 ### Nakatomi (2022)
+
 - Developed “Like,” a TikTok-style media-sharing app using Flutter.
 - Handled animations, in-app video caching, SQLite integration, and media rendering optimizations.
 
 ### Leapfrog Technology (2020 – Present)
+
 - Worked on eAtlas, Lemon Square, and ERP solutions with Flutter, React Native, and Next.js.
 - Led modular refactoring, performance improvements, and team mentoring.
 
@@ -55,4 +58,4 @@ I’m a Senior Software Engineer with 6+ years of experience in building scalabl
 
 ---
 
-_This resume was generated using the [Jekyll Resume Template](https://github.com/jglovier/resume-template) and is maintained with ❤️ by Manish._
+_This resume was generated using the [Jekyll Resume Template](https://github.com/jglovier/resume-template) and is maintained with ❤️ by Manish
