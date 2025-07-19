@@ -1,6 +1,13 @@
 # Projects
 # uncomment the urls if you wish to display them, and add your own URL
 
+# Credible
+- project: Credible
+  role: Senior Software Engineer
+  duration: Jul 2022 &mdash; Present
+  url: 'https://credible-app.com/'
+  description: A cross-platform job-matching platform for Australia and the US. Led architecture and development using Flutter, Node.js, and Next.js. Features include AI resume parsing, Super CV builder, personalized job recommendations, Stripe + RevenueCat billing, push notifications, and Mixpanel analytics for 80K+ users.
+
 # Liike
 - project: Liike
   role: Flutter Developer

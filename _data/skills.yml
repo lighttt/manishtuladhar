@@ -1,16 +1,25 @@
 # Skills
+
 # Flutter
 - skill: Flutter
-  description: Provider/BLOC/Riverpod, GraphQL/Restful APIs/Socket, Firebase/Hive/SQLite, GetIt
+  description: Riverpod, BLoC, Provider, Clean Architecture, Firebase (Auth, Firestore, Cloud Functions), Hive, SQLite, GetIt, REST & GraphQL, Socket.IO
 
-# ReactNative
-- skill: ReactNative
-  description: Redux, Expo, React Hook Form/Formik/Query, Context API, TRPC, Jest
+# React Native
+- skill: React Native
+  description: Expo, Redux Toolkit, React Hook Form, Formik, Context API, TRPC, Jest, Clean Architecture principles
 
 # React.js
 - skill: React.js
-  description: Typescript, Tailwind, Material UI, Redux/Toolkit, React Hook Form/Formik, TRPC
+  description: TypeScript, Next.js, Tailwind CSS, Material UI, Redux Toolkit, React Hook Form, TRPC, Vercel
 
 # Node.js
 - skill: Node.js
-  description: Nest.js, Prisma, Knex, Express.js
+  description: Nest.js, Express.js, Prisma, Knex.js, RESTful APIs, GraphQL, WebSockets, Stripe, PostgreSQL, MongoDB
+
+# Cloud & DevOps
+- skill: AWS & Firebase
+  description: AWS EC2, S3, EBS, Lambda, IAM, OpenSearch; Firebase Cloud Functions, Auth, Messaging, Realtime DB
+
+# Databases
+- skill: MongoDB & SQL
+  description: MongoDB, Mongoose, PostgreSQL, MySQL, Prisma ORM, Aggregation Pipelines, Index Optimization

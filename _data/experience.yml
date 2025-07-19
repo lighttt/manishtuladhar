@@ -1,47 +1,54 @@
 # Jobs
-# Flutter Developer
+
+- company: Credible
+  position: Senior Software Engineer / Tech Lead
+  duration: Jul, 2022 &mdash; Present
+  summary: |
+    • Lead the architecture and development of a cross-platform job-matching app with 80k+ users across Australia and the US  
+    • Built AI-driven modules like resume parsing, skill extraction, job recommendation, and Super CV generation  
+    • Developed Flutter Web, iOS, and Android apps with a Node.js/Next.js backend and MongoDB  
+    • Integrated Stripe and RevenueCat for in-app billing and leveraged Mixpanel for behavior tracking and analytics  
+    • Mentored engineers, led sprint cycles, and collaborated closely on product strategy and direction
+
 - company: Nakatomi
   position: Flutter Developer
-  duration: Feb, 2023 &mdash; Present
-  summary:
-    • Work as Flutter Developer following Offline based approach with Clean Architecture
-    • Created Social Media - Group Chat Application with SocketIO
-    • Handle caching various messages and images with SQLite and CacheManager
-    • Handle various different Media Animations and UI with Flutter
+  duration: Jan, 2022 &mdash; Jul, 2022
+  summary: |
+    • Developed “Like,” a TikTok-style group-sharing app with subgroup chat, hashtags, and vertical media feeds  
+    • Built rich custom animations, haptic feedback, and gesture-based UI interactions for immersive experience  
+    • Handled video and media caching with SQLite and CacheManager for offline-first performance  
+    • Maintained a modular Clean Architecture codebase with full test coverage
 
-# Senior Software Engineer
 - company: Leapfrog Technology, Inc.
   position: Senior Software Engineer
   duration: Jan, 2020 &mdash; Present
-  summary:
-    • Team Lead as Flutter/React Developer following Clean Architecture and TDD
-    • Worked under Scrum and Agile Workflow with feature-wise development and release management.
-    • Wrote unit test and integration testing with Provider/BLOC and GetIT as dependency injection with GraphQL Client
-    • Worked under various modules on the ERP to develop REST APIs with database MySQL, MongoDB and PostgresSQL and handling queries.
+  summary: |
+    • Delivered apps for US and Japanese clients using Flutter, React Native (Expo), and Next.js  
+    • Led rewrite of eATLAS — a real-world adventure app — with Firebase Cloud Functions and role-based access flows  
+    • Built admin dashboards with RBAC, campaign analytics, and user management using Next.js  
+    • Collaborated with international teams to localize and scale products across markets  
+    • Mentored devs and improved CI/CD pipelines, development velocity, and release quality
 
-# Frontend Developer
 - company: Lenden Sewa Pvt. Ltd.
   position: Frontend Developer
   duration: Sep, 2020 &mdash; Dec, 2020
-  summary:
-    • Developing mobile application using Flutter with Clean Architecture and ReactJs web app with hooks and +ES6
-    • Integrate Google Maps SDK with navigation, handling socket connection for real-time tracking of rider’s location.
+  summary: |
+    • Developed a Flutter-based mobile app and React.js web platform for shipping and wallet services  
+    • Integrated Google Maps SDK for rider tracking and handled socket-based real-time updates  
+    • Followed Clean Architecture and modern UI patterns using Hooks and Tailwind
 
-# Mobile Application Tutor/Developer
 - company: IIT Nepal
   position: Mobile Application Tutor/Developer
-  duration: Dec, 2018  &mdash; Dec, 2020
-  summary:
-    • Teaching Android/ Flutter Developer Course from scratch to deployment with Material Design and Language as Java/Dart.
-    • Tutor on creating 15 real-world applications with key knowledge of JSON Parsing, REST API, Volley, Maps, Firebase Tools and also some game developments with GDX.
-    • Developed internal apps using Flutter i.e. CSIT that helps students with notes and study materials.
+  duration: Dec, 2018 &mdash; Dec, 2020
+  summary: |
+    • Taught Flutter and Android (Java/Dart) development courses from beginner to deployment  
+    • Guided students through building 15+ real-world apps including Firebase, Maps, and REST APIs  
+    • Built CSIT Notes — a Flutter-based internal study app for exam preparation and resources
 
-# Android Developer
-- company: Tejobindu Solutions Pvt. Ltd
+- company: Tejobindu Solutions Pvt. Ltd.
   position: Android Developer
-  duration: Jul, 2019  &mdash; Dec, 2019
-  summary:
-    • Work with MVVM, MVC architecture with usage of Java and Kotlin to develop apps
-    • Background services managing with EventBus, WorkManager and BroadCastReciever.
-    • Uses Firebase Cloudstore and Facebook SDK with Offline Caching Live Data
-    • Usage of Maps SDK, Location Handling, Marker Animation with DistanceAPI, and FusedLocation.
+  duration: Jul, 2019 &mdash; Dec, 2019
+  summary: |
+    • Developed Android apps in food delivery, ride-sharing, and stock trading using Java/Kotlin  
+    • Built background services, push notifications, and location tracking with Firebase and Maps SDK  
+    • Followed MVVM and MVC patterns; worked with LiveData, WorkManager, and EventBus for async tasks
