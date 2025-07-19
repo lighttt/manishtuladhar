@@ -14,7 +14,7 @@ resume_name: 'Manish Tuladhar'
 resume_title: 'Senior Software Engineer'
 
 # used for the contact button in _layouts/resume.html
-resume_contact_email: 'manish.eclipse@gmail.com'
+resume_contact_email: 'manishtuladharwork@gmail.com'
 
 # the next two items are used for schema itemprops in _layouts/resume.html
 resume_contact_telephone: '+61-45080943'
